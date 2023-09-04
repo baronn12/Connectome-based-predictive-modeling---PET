@@ -6,7 +6,11 @@ We used resting-state fMRI scans acquired at Tel Aviv University’s Strauss Cen
 
 
 in this repository you can find 4 files:
+
 all_models_322_subj: a jupyter notebook with all of the predictive models showcased in this study, besides deep neural network (DNN), applied to all participants in order to predict their general PET scores.
+
 all_models_158_subj: a jupyter notebook with all of the predictive models showcased in this study, besides deep neural network (DNN), applied to 158 of the participants with the relevant data, in order to predict their math and verbal PET scores.
+
 dnn_322: basic deep neural network applied to all participants in order to predict their general PET scores.
+
 dnn_158: basic deep neural network applied to 158 of the participants with the relevant data, in order to predict their math and verbal PET scores.
